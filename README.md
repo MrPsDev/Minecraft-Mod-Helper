@@ -12,6 +12,6 @@ Minecraft Mod Helper is a local Cursor plugin that scaffolds common modding task
 
 This plugin is ready for local usage when stored under:
 
-`~/.cursor/plugins/local/minecraft-mod-helper/`
+`C:\Users\user_name\.cursor\plugins\local`
 
 If this repository lives elsewhere, copy or clone it to that directory.
