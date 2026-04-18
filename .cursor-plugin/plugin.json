@@ -1,0 +1,31 @@
+{
+  "name": "minecraft-mod-helper",
+  "displayName": "Minecraft Mod Helper",
+  "description": "Scaffold Minecraft mods, blocks, and items for Fabric or Forge projects.",
+  "version": "0.1.0",
+  "author": {
+    "name": "arma"
+  },
+  "license": "MIT",
+  "keywords": [
+    "minecraft",
+    "modding",
+    "fabric",
+    "forge",
+    "scaffold"
+  ],
+  "commands": [
+    {
+      "name": "create-mod",
+      "description": "Scaffold a new Minecraft mod project"
+    },
+    {
+      "name": "create-block",
+      "description": "Generate all files for a new block"
+    },
+    {
+      "name": "create-item",
+      "description": "Generate all files for a new item"
+    }
+  ]
+}
