@@ -1,4 +1,4 @@
-# !!Alha!!!
+# !!Alpha version!!!
 
 There may be bugs and errors. Still wrging on it.
 
