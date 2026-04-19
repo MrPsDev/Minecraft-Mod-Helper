@@ -8,6 +8,8 @@ Minecraft Mod Helper is a local Cursor plugin that scaffolds common modding task
 - `/create-block`: generate files for a new block
 - `/create-item`: generate files for a new item
 
+These commands need to be written to the cursor agent
+
 ## Local usage
 
 This plugin is ready for local usage when stored under:
