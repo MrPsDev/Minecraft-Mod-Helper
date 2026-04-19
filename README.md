@@ -1,6 +1,6 @@
 # !!!Alpha version!!!
 
-There may be bugs and errors. Still wrging on it.
+There may be bugs and errors. Still working on it.
 
 
 # Minecraft Mod Helper
