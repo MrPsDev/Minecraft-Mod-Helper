@@ -1,3 +1,7 @@
+#!!Alha 
+There may be bugs and errors. Still wrging on it.
+
+
 # Minecraft Mod Helper
 
 Minecraft Mod Helper is a local Cursor plugin that scaffolds common modding tasks for Fabric and Forge workflows.
